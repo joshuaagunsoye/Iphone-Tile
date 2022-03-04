@@ -1,0 +1,37 @@
+[
+    {
+        "social": "facebook",
+        "followers": "1987",
+        "views": "87",
+        "likes": "52",
+        "oTitle": "Page Views",
+        "oViews": "Page Views",
+        "oNumbers": "87"
+        
+    },
+    {
+        "social": "twitter",
+        "followers": "1044",
+        "views": "87",
+        "likes": "507",
+        "oTitle": "Retweets",
+        "oNumbers": "52"
+        
+    },
+    {
+        "social": "instagram",
+        "followers": "11k",
+        "views": "52k",
+        "likes": "5462",
+        "oTitle": "Likes",
+        "oNumbers": "5462"
+    },
+    {
+        "social": "youtube",
+        "followers": "8239",
+        "views": "1407",
+        "likes": "107",
+        "oTitle": "Profile Views",
+        "oNumbers": "52k"
+    }
+]

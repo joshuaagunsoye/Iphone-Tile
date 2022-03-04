@@ -1,0 +1,75 @@
+body {
+    background-color: #fbfbfb;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+  }
+
+  header {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  .card-header {
+    padding-bottom: 35px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    position: relative;
+    text-align: left;
+  }
+
+  section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .descBody {
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+    margin-right: 15px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.15);
+    padding: 20px 30px;
+    border: 1px solid #f5f5f5;
+    margin-bottom: 100px;
+    margin-top: 40px;
+  }
+
+  #phoneRating {
+    width: 100px;
+    display: block;
+    position: absolute;
+    top: -10px;
+  }
+
+  p {
+    margin: 10px 0;
+    text-align: left;
+    color: darkgray;
+    font-size: 18px;
+  }
+
+  #phoneShipping {
+    color: green;
+  }
+
+  #root2 {
+    margin-top: 10px;
+  }
+
+  .root-heading {
+    text-align: center;
+    font-size: 35pt;
+    padding-top: 25px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    background-color: #071366;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    color: white;
+  }
+
+  .headings {
+    font-weight: bold;
+    color: #071366;
+  }
